@@ -3,7 +3,7 @@ import os
 
 from setuptools import setup
 
-VERSION = '1.7.1b'
+VERSION = '1.7.1c'
 
 
 def readme(*paths):
